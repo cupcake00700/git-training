@@ -1,0 +1,3 @@
+Day 1 - Learning Git
+- Git tracks snapshots
+- Staging is important
